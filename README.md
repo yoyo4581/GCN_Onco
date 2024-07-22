@@ -1,2 +1,2 @@
 # GCN_Onco
-Applying a GCN model for cancer type classification from pathway network data on OncoGene DB.
+Applying a GCN Model for Cancer Type Classification from Pathway Network data sourced from OncoGene_DB.
